@@ -1,0 +1,6 @@
+layout: post
+title: "BigQuery Basic UDFs"
+date: 2021-07-15 00:00:00 -0000
+categories: bigquery udfs array struct 
+
+BigQuery UDFs for Arrays
